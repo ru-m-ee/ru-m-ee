@@ -1,12 +1,10 @@
 <!-- Contact & Profile Views -->
 <p align="right">
-  <img src="https://komarev.com/ghpvc/?username=ru-m-ee&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" />
+  <img src="https://komarev.com/ghpvc/?username=ru-m-ee&label=Profile%20views&color=4B0082&style=flat" alt="Profile Views" />
   <a href="https://www.linkedin.com/in/a-s-m-ashiqur-rahman-rumee/">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin" alt="LinkedIn">
   </a>
-  <a href="mailto:asm.rumee@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-red?style=flat&logo=gmail" alt="Gmail">
-  </a>
+  
 </p>
 
 <!-- Heading -->
