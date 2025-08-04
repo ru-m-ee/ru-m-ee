@@ -106,7 +106,7 @@ I’m a passionate Software Quality Assurance (SQA) Engineer with hands-on exper
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ru-m-ee&show_icons=true&theme=tokyonight" height="160"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ru-m-ee&layout=compact&theme=tokyonight" height="160"/>
-  <img src="https://user-images.githubusercontent.com/74038190/271839856-3b4607a1-1cc6-41f1-926f-892ae880e7a5.gif" width="200"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=ru-m-ee&show_icons=true&theme=tokyonight" height="100"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ru-m-ee&layout=compact&theme=tokyonight" height="100"/>
+  <img src="https://user-images.githubusercontent.com/74038190/271839856-3b4607a1-1cc6-41f1-926f-892ae880e7a5.gif" width="150"/>
 </p>
